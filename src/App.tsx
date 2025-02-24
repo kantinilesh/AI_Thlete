@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from 'react';
+import React, { useRef, useEffect } from 'react';
 import Navbar from './components/Navbar.tsx';
 import FeatureCard from './components/FeatureCard.tsx';
 
@@ -110,47 +110,26 @@ const footerLinks = {
 
 function App() {
   const audioRef = useRef<HTMLAudioElement>(null);
-  const [showPlayPrompt, setShowPlayPrompt] = useState(false);
 
   // Play audio on load
   useEffect(() => {
     if (audioRef.current) {
       audioRef.current.play().catch(error => {
         console.log("Audio playback failed:", error);
-        setShowPlayPrompt(true); // Show prompt if autoplay fails
+        // Optional: Log the error for debugging, but no UI prompt will appear
       });
     }
   }, []);
-
-  const handlePlayAudio = () => {
-    if (audioRef.current) {
-      audioRef.current.play().then(() => {
-        setShowPlayPrompt(false); // Hide prompt after successful play
-      }).catch(error => console.log("Failed to play audio after user interaction:", error));
-    }
-  };
 
   return (
     <div className="min-h-screen bg-black text-white font-montserrat">
       <Navbar />
       
       {/* Audio Player for "TV Off" by Kendrick Lamar (Placeholder) */}
-      <audio ref={audioRef} loop>
+      <audio ref={audioRef} autoPlay loop>
         <source src="/audio/tv-off.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
-
-      {/* Optional Play Prompt if Autoplay Fails */}
-      {showPlayPrompt && (
-        <div className="fixed inset-0 bg-black/50 flex items-center justify-center">
-          <button
-            onClick={handlePlayAudio}
-            className="bg-white text-black px-6 py-3 rounded-lg text-lg font-bold hover:bg-gray-200 transition-colors"
-          >
-            Click to Play Music
-          </button>
-        </div>
-      )}
 
       {/* Hero Section */}
       <div className="relative h-screen">
