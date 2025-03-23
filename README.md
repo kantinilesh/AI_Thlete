@@ -135,9 +135,9 @@ Nilesh Kanti - [Linkedin](https://www.linkedin.com/in/nileshkanti/)
 
 Aditya Pratap Singh - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-Rishit Vats - [Linkedin](https://www.linkedin.com/in/nileshkanti/)
+Rishit Vats - [Linkedin](https://www.linkedin.com/in/rishit-vats-56a5a5296/)
 
-Srijan Sarkar - [Linkedin]([https://www.linkedin.com/in/nileshkanti/](https://www.linkedin.com/in/srijan-sarkar-90177b288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+Srijan Sarkar - [Linkedin](https://www.linkedin.com/in/srijan-sarkar-90177b288/)
 
 
 
