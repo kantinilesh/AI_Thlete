@@ -111,4 +111,34 @@ https://github.com/user-attachments/assets/89a6fd5c-3fab-46cb-a1b9-b07139d834cd
 ![WhatsApp Image 2025-03-23 at 13 39 19_1d6e6b8b](https://github.com/user-attachments/assets/764eeba3-2b02-4c8a-b690-ff1d45b278f3)
 
 
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+<!-- Authors -->
+## Authors
+
+Nilesh Kanti - [Linkedin](https://www.linkedin.com/in/nileshkanti/) 
+
+Aditya Pratap Singh - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+Rishit Vats - [Linkedin](https://www.linkedin.com/in/nileshkanti/)
+
+Srijan Sarkar - [Linkedin]([https://www.linkedin.com/in/nileshkanti/](https://www.linkedin.com/in/srijan-sarkar-90177b288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
+
+
 
