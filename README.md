@@ -57,3 +57,47 @@ Our project offers an AI-powered fitness solution addressing common workout chal
 
 - Progress Tracking & Analytics 📊: AI generates daily, monthly, and yearly performance graphs using workout stats
 
+## Key Features 🚀
+
+### Exercise Tracking with Dashboard
+
+- Tracks reps for bicep curls, pushups, situps, and crunches, displaying real-time performance data on an interactive dashboard.
+
+![WhatsApp Image 2025-03-23 at 13 42 11_f2380329](https://github.com/user-attachments/assets/8a86bf49-bc86-4907-ac51-bfe2f3502320)
+
+
+
+![WhatsApp Image 2025-03-23 at 13 40 19_fe541438](https://github.com/user-attachments/assets/71857a08-04ef-4df7-9748-b5b07ed299d9)
+
+
+
+### Gamified Fitness – Temple Run
+
+- Allows users to play Temple Run using body movements, making workouts fun and engaging.
+
+![image](https://github.com/user-attachments/assets/6dc55c4e-5934-4833-8929-6b2b248148c2)
+
+
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/5e50d2ff-a39a-404b-9950-c146c38b72d1" />
+
+
+
+
+### Tennis Athlete Analysis System
+
+- Uses AI-driven motion analysis to evaluate tennis players' techniques and enhance performance.
+
+
+
+
+https://github.com/user-attachments/assets/c8171925-3d23-406c-91b6-91bba4bd686b
+
+
+### Personalized Nutrition Chatbot
+
+- Provides customized diet plans and nutrition tips based on user preferences, fitness goals, and health data.
+
+![WhatsApp Image 2025-03-23 at 13 39 19_1d6e6b8b](https://github.com/user-attachments/assets/764eeba3-2b02-4c8a-b690-ff1d45b278f3)
+
+
+
