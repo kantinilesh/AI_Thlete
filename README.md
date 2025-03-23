@@ -63,6 +63,9 @@ Our project offers an AI-powered fitness solution addressing common workout chal
 
 - Tracks reps for bicep curls, pushups, situps, and crunches, displaying real-time performance data on an interactive dashboard.
 
+<img width="271" alt="image" src="https://github.com/user-attachments/assets/dcab6770-252e-4d5f-aaf5-d29bbb99513e" />
+
+
 ![WhatsApp Image 2025-03-23 at 13 42 11_f2380329](https://github.com/user-attachments/assets/8a86bf49-bc86-4907-ac51-bfe2f3502320)
 
 
