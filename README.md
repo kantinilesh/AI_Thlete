@@ -6,7 +6,7 @@ Our project offers an AI-powered fitness solution addressing common workout chal
 
 ![WhatsApp Image 2025-03-23 at 13 19 49_bf0df807](https://github.com/user-attachments/assets/dcd19767-8089-41ed-a364-9be5ca65f88a)
 
-## Techn0logical Stack⌨️
+## Technological Stack⌨️
 ### 🛠️ Frontend
 - Cross-Platform: Web (Next.js) & Mobile (React Native) for seamless access.
 
@@ -78,7 +78,11 @@ Our project offers an AI-powered fitness solution addressing common workout chal
 ![image](https://github.com/user-attachments/assets/6dc55c4e-5934-4833-8929-6b2b248148c2)
 
 
-<img width="576" alt="image" src="https://github.com/user-attachments/assets/5e50d2ff-a39a-404b-9950-c146c38b72d1" />
+
+
+
+
+https://github.com/user-attachments/assets/41a46d81-77e6-4772-a817-41a4fafb0ea1
 
 
 
@@ -90,7 +94,11 @@ Our project offers an AI-powered fitness solution addressing common workout chal
 
 
 
-https://github.com/user-attachments/assets/c8171925-3d23-406c-91b6-91bba4bd686b
+
+
+https://github.com/user-attachments/assets/89a6fd5c-3fab-46cb-a1b9-b07139d834cd
+
+
 
 
 ### Personalized Nutrition Chatbot
